@@ -18,7 +18,7 @@
 
 <div><sup>#</sup>Corresponding authors</div>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2503.21979-b31b1b.svg)](https://arxiv.org/abs/2503.21979)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.21979-b31b1b.svg)](https://arxiv.org/pdf/2601.20305)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://2kxx.github.io/SEER.github.io/)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-orange)]()
 [![HuggingFace Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Data-blue)]()
@@ -70,11 +70,14 @@ Experiments show that SEER consistently outperforms state-of-the-art baselines i
 ## 📜 Citation
 If you find SEER helpful for your research, please cite:
 ```bibtex
-@article{tang2025seer,
-  title={Endogenous Reprompting: Self-Evolving Cognitive Alignment for Unified Multimodal Models},
-  author={Tang, Zhenchen and Yang, Songlin and Wang, Zichuan and Peng, Bo and others},
-  journal={arXiv preprint arXiv:2503.21979},
-  year={2025}
+@misc{tang2026endogenousrepromptingselfevolvingcognitive,
+      title={Endogenous Reprompting: Self-Evolving Cognitive Alignment for Unified Multimodal Models}, 
+      author={Zhenchen Tang and Songlin Yang and Zichuan Wang and Bo Peng and Yang Li and Beibei Dong and Jing Dong},
+      year={2026},
+      eprint={2601.20305},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2601.20305}, 
 }
 ```
 
