@@ -18,7 +18,7 @@
 
 <div><sup>#</sup>Corresponding authors</div>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2503.21979-b31b1b.svg)](https://arxiv.org/pdf/2601.20305)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.20305-b31b1b.svg)](https://arxiv.org/pdf/2601.20305)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://2kxx.github.io/SEER.github.io/)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-orange)]()
 [![HuggingFace Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Data-blue)]()
